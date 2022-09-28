@@ -81,7 +81,7 @@
 
 ![Снимок экрана 2022-09-28 в 18 06 06](https://user-images.githubusercontent.com/79734984/192787032-b0aaf3be-1bdf-4b58-af39-6469f15e4e1c.png)
 
-Код задания находится в [этом репозитории] (https://github.com/caimanchik/firstLab/blob/main/program.ipynb)
+Код задания находится в [этом репозитории](https://github.com/caimanchik/firstLab/blob/main/program.ipynb)
 
 
 ## Задание 3
